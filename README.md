@@ -1,4 +1,3 @@
-
 # Hi, I'm Berkay 👋
 
 ### Business & Technology | Software Development | Data Analysis
@@ -9,10 +8,18 @@ My interests lie at the intersection of technology and business, particularly in
 
 ### 💻 Technical Skills
 
+
+### 💻 Technical Skills
+
+
+### 💻 Technical Skills
+
 - **Languages:** JavaScript, Python, Java, SQL
-- **Web Development:** React, Node.js, Express, HTML, CSS
-- **Data & Analytics:** Pandas, NumPy, SPSS
-- **Tools:** Git, GitHub, VS Code
+- **Frontend:** React, HTML, CSS, Vite
+- **Backend:** Node.js, Express, REST APIs
+- **Data & Analytics:** Pandas, NumPy, R, SPSS
+- **Tools & Version Control:** Git, GitHub
+- **Academic Experience:** C#, ASP.NET Core, R, PHP
 
 ### 🚀 Featured Projects
 
