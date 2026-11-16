@@ -31,25 +31,34 @@ A full-stack web application designed to assess digital footprint exposure throu
 
 **Tech:** React · JavaScript · Node.js · Express · REST APIs
 
-### CareerPilot — AI-Powered Career Platform
 
-A career-focused application exploring the use of AI and automation to support professional development and career-related workflows.
+### [CareerPilot — AI-Assisted Job Application Hub](https://github.com/berkaynez/careerpilot)
 
-**Focus:** AI Integration · Web Development · Automation
+A local-first application designed to streamline job discovery, application preparation, and career management.
 
-*Private repository — project details and implementation under review.*
+- Integrated job discovery across multiple recruitment sources.
+- Developed evidence-based job requirement analysis and matching.
+- Implemented AI-assisted cover letter preparation and supervised form assistance.
+- Built privacy-conscious workflows with API cost controls and application tracking.
+- Documented a beta release with automated offline tests.
 
-### AI Trading Agent
+**Tech:** TypeScript · Node.js · Playwright · Zod · AI Integration
 
-An experimental trading analysis project combining market indicators with social sentiment signals.
+**Status:** Public Beta · Local-First Application
 
-- Explores the use of technical indicators and sentiment analysis.
-- Investigates data-driven approaches to financial markets.
-- Developed as a learning and experimentation project.
+### [AI Trading Agent — ML-Powered Market Analysis](https://github.com/berkaynez/ai-trading-agent)
 
-**Focus:** Financial Data Analysis · Sentiment Analysis · Algorithmic Trading
+An experimental cryptocurrency market analysis platform combining technical indicators, machine learning, and news sentiment.
 
-*Private repository — research and development project.*
+- Developed EMA and RSI-based technical trading signals.
+- Implemented a Random Forest classifier for market signal analysis.
+- Built a FastAPI gateway for market data, predictions, and decision logging.
+- Created a Next.js dashboard for visualizing market indicators and model outputs.
+- Explored configurable decision scoring and prototype risk controls.
+
+**Tech:** Python · FastAPI · scikit-learn · Next.js · TypeScript · CCXT
+
+**Status:** Research Prototype · Experimental
 
 ### [DaiSec — AI-Powered Video Security Platform](https://github.com/berkaynez/daisec-web-project)
 
