@@ -1,12 +1,36 @@
-# Hi there
 
-I'm **Berkay Nergiz**, a Management Information Systems student from Istanbul, learning full stack web development, data analysis, and algorithmic trading.
+# Hi, I'm Berkay 👋
 
-Currently, I'm improving my skills in **C#**, **Python**, **JavaScript**, **PHP** and exploring how to build modern web applications using **React.js**, **Node.js**, and **SQL**.  
-I'm also interested in **data-driven systems**, **business intelligence** and how **AI and automation** can enhance financial decision-making.
+### Business & Technology | Software Development | Data Analysis
 
-### Learning & Using
-C# • Python • JavaScript • PHP • React.js • Node.js • SQL • Power BI • Algorithmic Trading
+I'm a graduate of **Management Information Systems** and **Business Administration** at Marmara University.
 
-### Connect
+My interests lie at the intersection of technology and business, particularly in software development, data analysis, business analysis, and process improvement.
+
+### 💻 Technical Skills
+
+- **Languages:** JavaScript, Python, Java, SQL
+- **Web Development:** React, Node.js, Express, HTML, CSS
+- **Data & Analytics:** Pandas, NumPy, SPSS
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+**Digital Footprint Exposure Analyzer**  
+A web application designed to assess publicly accessible digital footprint exposure through multiple platform integrations.
+
+**DaiSec**  
+Contributed to the frontend development of a video analytics platform during my software development internship.
+
+**helixQC**  
+An R-based project focused on data analysis and quality control.
+
+### 🎯 Current Focus
+
+- Strengthening my backend development skills
+- Building practical data-driven applications
+- Exploring AI-powered automation and business process optimization
+
+### 🔗 Connect
+
 [LinkedIn](https://linkedin.com/in/berkaynergiz)
